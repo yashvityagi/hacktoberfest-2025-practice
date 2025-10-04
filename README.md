@@ -1,2 +1,2 @@
-# hacktoberfest-2025-practice
-Practice repo for Hacktoberfest 2025 contributions
+## Hacktoberfest 2025
+This repository is created to practice safe Hacktoberfest contributions.
